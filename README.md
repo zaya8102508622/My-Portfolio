@@ -11,4 +11,4 @@ Additional skills: HTML , CSS and Javascript
 -**linkedIn:**[Zaya Bharti](https://www.linkedin.com/in/zaya-bharti-a65803235/)
 
 ## Thank you
-Thank you for visiting my portdfolio.
+Thank you for visiting my portfolio.
