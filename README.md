@@ -12,3 +12,6 @@ Additional skills: HTML , CSS and Javascript
 
 ## Thank you
 Thank you for visiting my portfolio.
+
+## Screenshots
+[Project Screenshot](C:\Users\zayab\Pictures\Screenshots\Screenshot 2024-06-26 214951.png)
