@@ -7,7 +7,7 @@ Additional skills: HTML , CSS and Javascript
 
 ## Contact
 email: zayabharti200@gmail.com
-linkedIn: **[Zaya Bharti](https://www.linkedin.com/in/zaya-bharti-a65803235/)
+**linkedIn:**[Zaya Bharti](https://www.linkedin.com/in/zaya-bharti-a65803235/)
 
 ## Thank you
 Thank you for visiting my portdfolio.
