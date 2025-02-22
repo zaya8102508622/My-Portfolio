@@ -1,0 +1,178 @@
+body {
+    font-family:monospace;
+    padding: 0px;
+    background-color: #f4f4f4;
+    
+}
+h2{
+    font-size: 40px;
+    text-shadow: 1.5px 1.5px 1px gray;
+    line-height: 1.25;
+}
+img{
+    position: relative;
+    height:100px;
+    width: 100px;
+    border-radius: 100px;
+    border: solid 5px darkolivegreen;
+}
+.menu {
+    background: rgb(39, 56, 9);
+    text-align: center;
+    top:0px;
+    left: 0px;
+    position: fixed;
+    width: 100%;
+    height: 8%;
+}
+
+
+.menu ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+.menu ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.a1 {
+    text-transform: uppercase;
+    text-align: justify;
+    font-size: 20px;
+    padding: 20px;
+    margin: 20px;
+    background-color: aliceblue;
+    box-sizing: border-box;
+    height: 500px;
+    border-radius: 10px;
+    border: solid 10px darkolivegreen;
+    box-shadow: 5px 5px 3px rgba(0, 0, 0 , 0.6);
+}
+.a1>h2{
+    text-align: center;
+}
+.a2{
+    padding: 30px;
+}
+.a2 h2{
+    color:darkolivegreen;
+    text-decoration-color: darkolivegreen;
+    text-decoration: underline;
+    text-decoration-thickness: 2.5px;
+}
+.a2 img{
+    top:-430px;
+    left: -60px;
+}
+.a3{
+    
+    padding: 30px;
+}
+.a3 h2{
+    color:rgb(68, 63, 35);
+    text-decoration-color: rgb(68, 63, 35);
+    text-decoration: underline;
+    text-decoration-thickness: 2.5px;
+}
+.a3 img{
+    top: -470px;
+    left: -60px;
+}
+.a4{
+    
+    padding: 30px;
+}
+.a4 h2{
+    color: rgb(222, 124, 55);
+    text-decoration-color: rgb(222, 124, 55);
+    text-decoration: underline;
+    text-decoration-thickness: 2.5px;
+}
+.a4 img{
+    top: -350px;
+    left: -60px;
+}
+.a5{
+    padding: 30px;
+}
+.a5 h2{
+    color: rgb(217, 99, 119);
+    text-decoration-color: rgb(217, 99, 119);
+    text-decoration: underline;
+    text-decoration-thickness: 2.5px;
+}
+.a5 img{
+    top: -180px;
+    left: -1080px;
+}
+.a5 ul li{
+    list-style: circle;
+    box-sizing: border-box;
+    height: 35%;
+    width: 40%;
+    margin: 20px;
+    float: left;
+    color: rgb(119, 6, 29);
+    font-size: 25px;
+    border: dashed 2px rgb(217, 99, 119);
+    padding: 20px;
+}
+.a6{
+    padding: 30px;
+}
+.a6 h2{
+    color:rgb(68, 63, 35);
+    text-decoration-color: rgb(68, 63, 35);
+    text-decoration: underline;
+    text-decoration-thickness: 2.5px;
+}
+.a6 img{
+    top: -300px;
+    left: -60px;
+}
+.a7{
+        
+        padding: 30px;
+    }
+.a7 h2{
+        color:rgb(22, 12, 117);
+        text-decoration-color: rgb(22, 12, 117);
+        text-decoration: underline;
+        text-decoration-thickness: 2.5px;
+    }
+.a7 img{
+        top: -280px;
+        left: -60px;
+    }
+.footer {
+    text-align: center;
+    background: rgb(39, 56, 9);
+    color: white;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 7%;
+    left: 0px;
+}
+#home{
+    background: linear-gradient(135deg, #6a11cb, #2575fc);
+  }
+  
+  #education {
+    background: linear-gradient(135deg, #ff7e5f, #feb47b);
+  }
+  #technology{
+    background: linear-gradient(135deg, #6a11cb, #2575fc);
+  }
+  #projects {
+    background: linear-gradient(135deg, #43cea2, #185a9d);
+  }
+  #skills {
+    background: linear-gradient(135deg, #ff7e5f, #feb47b);
+  }
+  #contact {
+    background: linear-gradient(135deg, #f7971e, #ffd200);
+  }
